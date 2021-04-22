@@ -8,8 +8,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="VitalyZibulski | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
-[<img align="left" alt="VitalyZibulski | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />]
+<img align="left" alt="VitalyZibulski | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="VitalyZibulski | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />
 <br />
 
 ### Languages and Tools:
