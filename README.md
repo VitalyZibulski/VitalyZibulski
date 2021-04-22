@@ -14,7 +14,7 @@
 
 ### Languages and Skills:
 <img align="left" alt="CodeWars" width="320px" src="https://www.codewars.com/users/VitalyZibulski/badges/large" />
-<br />
+
 <br />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
